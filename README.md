@@ -25,7 +25,6 @@
 ### 📧 Connect with Me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mmansy132003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
-<a href="https://t.me/mah_moud_2003" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Mansy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 &nbsp;
 ## 🛠 &nbsp;Tech Stack
@@ -40,7 +39,7 @@
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
  
 #### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
