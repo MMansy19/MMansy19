@@ -25,6 +25,7 @@
 ### 📧 Connect with Me:
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mmansy132003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
+[![Kaggle](https://img.shields.io/badge/-KAGGLE-0077B5?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mahmoudelmansy)
 
 &nbsp;
 ## 🛠 &nbsp;Tech Stack
