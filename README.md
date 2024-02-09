@@ -24,10 +24,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201010352387) 
 
 
-<a href="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
-</a>
-
 
 &nbsp;
 ## 🛠 &nbsp;Tech Stack
