@@ -18,10 +18,15 @@
 
 
 ### 📧 Connect with Me:
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mmansy132003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://mahmoud-mansy-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
-[![Kaggle](https://img.shields.io/badge/-KAGGLE-0077B5?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mahmoudelmansy)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mmansy132003@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201010352387) 
 
+
+<a href="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
+</a>
 
 
 &nbsp;
@@ -67,3 +72,4 @@
 <a href="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
 </a>
+
