@@ -1,5 +1,4 @@
 
-<img style="img" width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" style="max-width: 100%; height: auto; display: none;">
 
   <h3 align="center">
 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐌𝐚𝐡𝐦𝐨𝐮𝐝 𝐌𝐚𝐧𝐬𝐲'𝐬 𝐩𝐫𝐨𝐟𝐢𝐥𝐞!
