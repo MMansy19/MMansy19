@@ -26,6 +26,7 @@
 
 
 
+
 &nbsp;
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,10 +36,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=000000)
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff)
@@ -46,44 +45,58 @@
 
 #### APIs & Services
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff)
+
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=ffffff)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=ffffff)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=ffffff)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=ffffff)
+![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=ffffff)
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
 ![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=flat&logo=Flask&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
 
 #### Tools & Platforms
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=ffffff)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=ffffff)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
- 
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
+
 
 #### Others
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=github-actions&logoColor=ffffff)
+![Responsive Design](https://img.shields.io/badge/-Responsive_Design-51B7B3?style=flat&logo=responsive&logoColor=ffffff)
+![UX/UI Design](https://img.shields.io/badge/-UX/UI_Design-FF4785?style=flat&logo=design&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=ffffff)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=ffffff)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat&logo=powershell&logoColor=ffffff)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logoColor=orange)
+![Testing: Jest](https://img.shields.io/badge/-Testing:_Jest-C21325?style=flat&logo=jest&logoColor=ffffff)
+![Performance Optimization](https://img.shields.io/badge/-Performance_Optimization-007ACC?style=flat&logo=performance&logoColor=ffffff)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=continuous-integration&logoColor=ffffff)
+![Agile](https://img.shields.io/badge/-Agile-FF3E00?style=flat&logo=agile&logoColor=ffffff)
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=ffffff)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
