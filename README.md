@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅%20𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓%20;𝑨𝒍𝒘𝒂𝒚𝒔%20𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈%20𝒏𝒆𝒘%20𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔;𝑩𝒊𝒐𝒎𝒆𝒅𝒊𝒄𝒂𝒍%20𝑫𝒂𝒕𝒂%20𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈%20𝑼𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+<br>
+
+### 🙋‍♂️ About Me
 
 - 🏢 𝑩𝒊𝒐𝒎𝒆𝒅𝒊𝒄𝒂𝒍 𝑫𝒂𝒕𝒂 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑼𝒏𝒅𝒆𝒓𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆 𝒘𝒊𝒕𝒉 𝒔𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒛𝒂𝒕𝒊𝒐𝒏 𝒊𝒏 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
 
@@ -17,17 +20,18 @@
 
 - ⚡ 𝑭𝒖𝒏 𝑭𝒂𝒄𝒕: 𝑴𝒚 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒔𝒊𝒅𝒆 𝒇𝒍𝒐𝒖𝒓𝒊𝒔𝒉𝒆𝒔 𝒘𝒊𝒕𝒉 𝒂 𝒄𝒖𝒑 𝒐𝒇 𝒄𝒐𝒇𝒇𝒆𝒆 𝒘𝒉𝒊𝒍𝒆 𝒄𝒐𝒅𝒊𝒏𝒈; 𝒊𝒕 𝒃𝒐𝒐𝒔𝒕𝒔 𝒃𝒐𝒕𝒉 𝒑𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒗𝒊𝒕𝒚 𝒂𝒏𝒅 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒊𝒕𝒚.
 
+<br>
 
-### 📧 Connect with Me:
+
+### 📧 Connect with Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=&logoColor=black)](https://mahmoud-mansy-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-mansy-a189a5232/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat&logo=gmail&logoColor=white)](mahmoud2abdalfattah@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%230077B5.svg?logo=whatsapp&logoColor=white)](https://wa.me/201010352387) 
 
+<br>
 
 
-
-&nbsp;
 ## 🛠 &nbsp;Tech Stack
 
 #### Languages
@@ -38,16 +42,19 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+<br>
 
 #### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+<br>
 
 #### APIs & Services
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=ffffff)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff)
+<br>
 
 
 #### Frameworks & Libraries
@@ -63,6 +70,7 @@
 ![Context API](https://img.shields.io/badge/-Context_API-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![Hooks](https://img.shields.io/badge/-Hooks-61DAFB?style=flat&logo=react&logoColor=ffffff)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=ffffff)
+<br>
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=ffffff)
@@ -70,6 +78,7 @@
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=rest&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=ffffff)
+<br>
 
 #### Tools & Platforms
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=ffffff)
@@ -79,6 +88,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
 
+<br>
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
@@ -99,8 +109,16 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=ffffff)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
+
 <br>
+
+### 📈 GitHub Stats
+
+![Mahmoud's github](https://github-readme-stats.vercel.app/api?username=MMansy19&show_icons=true&hide_border=true)
+
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <a href="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">  
 </a>
