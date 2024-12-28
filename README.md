@@ -114,10 +114,11 @@
 
 ### 📈 GitHub Stats
 
-![Mahmoud's github](https://github-readme-stats.vercel.app/api?username=MMansy19&show_icons=true&hide_border=true)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MMansy19&" alt="MMansy19" /></p>    
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<a href="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">  
-</a>
+
+![Mahmoud's github](https://github-readme-stats.vercel.app/api?username=MMansy19&show_icons=true&hide_border=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MMansy19&show_icons=true&locale=en&layout=compact" alt="most used languages" />
+
+<img src="https://komarev.com/ghpvc/?username=MMansy19&style=for-the-badge">  
+
